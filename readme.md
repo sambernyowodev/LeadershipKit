@@ -17,7 +17,7 @@ Email use nodemailer
 Step-by-step instructions on how to install and set up the project.
 
 ```shell
-git clone https://github.com/sambernyowodev/Booking.git
+git clone https://github.com/sambernyowodev/LeadershipKit.git
 cd <project-directory>
 npm install
 ```
